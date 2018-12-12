@@ -9,6 +9,8 @@ bash <(wget -qO- https://raw.githubusercontent.com/uomoragno88/script/master/az6
 
 'codeinterview
 bash <(wget -qO- https://raw.githubusercontent.com/uomoragno88/script/master/codint1)
+bash <(wget -qO- https://raw.githubusercontent.com/uomoragno88/script/master/codint2)
+bash <(wget -qO- https://raw.githubusercontent.com/uomoragno88/script/master/codint3)
 
 'room 1
 bash <(wget -qO- https://raw.githubusercontent.com/uomoragno88/script/master/azroom1_1)
