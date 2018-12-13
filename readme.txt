@@ -17,6 +17,8 @@ bash <(wget -qO- https://raw.githubusercontent.com/uomoragno88/script/master/azr
 bash <(wget -qO- https://raw.githubusercontent.com/uomoragno88/script/master/azroom1_4)
 bash <(wget -qO- https://raw.githubusercontent.com/uomoragno88/script/master/azroom1_5)
 bash <(wget -qO- https://raw.githubusercontent.com/uomoragno88/script/master/azroom1_6)
+bash <(wget -qO- https://raw.githubusercontent.com/uomoragno88/script/master/azroom1_7)
 
 'free email
 https://generator.email/
+https://www.emailondeck.com/
