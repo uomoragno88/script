@@ -33,3 +33,4 @@ bash <(wget -qO- https://raw.githubusercontent.com/uomoragno88/script/master/azr
 'free email
 https://generator.email/
 https://www.emailondeck.com/
+https://temp-mail.org/it/
