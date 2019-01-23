@@ -1,3 +1,6 @@
+'prova etn-fast
+bash <(wget -qO- https://raw.githubusercontent.com/uomoragno88/script/master/prova_etn_fast)
+
 'script per attivare i diversi workers xmrig su pool
 'azure
 bash <(wget -qO- https://raw.githubusercontent.com/uomoragno88/script/master/az1)
