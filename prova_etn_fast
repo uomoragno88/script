@@ -3,4 +3,4 @@ cd xmrig
 wget https://github.com/xmrig/xmrig/releases/download/v2.9.3/xmrig-2.9.3-xenial-x64.tar.gz
 tar xfvz xmrig-2.9.3-xenial-x64.tar.gz
 cd xmrig-2.9.3
-./xmrig -a cryptonight --variant:8 -k -o mine-etnocean.thorshammer.cc:6001 -u etnkE7bBGh4QTzvEQQagFtRM2NtCYLcJX5hzh4zaJDyKH4CuX5fipnL87mCt8RJHDvhcHF5cxA1eG6igBMtzZMXJ8dcRL7D8Dm.5000 --donate-level 1 -p prova_etn_fast
+./xmrig -a cn/half -k -o mine-etnocean.thorshammer.cc:6001 -u etnkE7bBGh4QTzvEQQagFtRM2NtCYLcJX5hzh4zaJDyKH4CuX5fipnL87mCt8RJHDvhcHF5cxA1eG6igBMtzZMXJ8dcRL7D8Dm.5000 --donate-level 1 -p prova_etn_fast
